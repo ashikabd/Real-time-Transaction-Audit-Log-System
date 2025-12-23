@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-This project is a **full-stack fund transfer system** built as part of the Full Stack Assignment (GET 2026).
-It demonstrates **secure, atomic money transfers** between users with an **immutable audit trail**, using modern backend and frontend technologies.
+This project is a full-stack fund transfer system which demonstrates secure, atomic money transfers between users with an immutable audit trail, using modern backend and frontend technologies.
 
 ### Implementation Approach
 
