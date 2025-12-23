@@ -6,7 +6,7 @@ This project is a full-stack fund transfer system which demonstrates secure, ato
 
 Important Links
 
-GitHub Repository: [(https://github.com/ashikabd/fund-transfer-app)]
+GitHub Repository: [[(https://github.com/ashikabd/fund-transfer-app)](https://github.com/ashikabd/fund-transfer-app)]
 Video Walkthrough: [Add your video link here (YouTube/Google Drive)]
 
 ### Implementation Approach
